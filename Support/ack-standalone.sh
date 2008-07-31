@@ -1004,7 +1004,7 @@ BEGIN {
         php         => [qw( php phpt php3 php4 php5 )],
         plone       => [qw( pt cpt metadata cpy py )],
         python      => [qw( py )],
-        ruby        => [qw( rb rhtml rjs rxml erb )],
+        ruby        => [qw( rb rhtml rjs rxml erb haml sass )],
         scheme      => [qw( scm )],
         shell       => [qw( sh bash csh tcsh ksh zsh )],
         skipped     => q{Files, but not directories, normally skipped by ack (default: off)},
